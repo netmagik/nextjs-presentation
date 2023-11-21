@@ -17,10 +17,10 @@ The Studio connects to Sanity Content Lake, which gives you hosted content APIs 
 - Free Sanity project with unlimited admin users, free content updates, and pay-as-you-go for API overages
 - A project with starter-friendly and not too heavy-handed TypeScript and Tailwind.css
 
-## Table of Contents
+## Table of Contents:
 
 - [Features](#features)
-- [Table of Contents](#table-of-contents)
+- [Table of Contents:](#table-of-contents)
 - [Project Overview](#project-overview)
   - [Important files and folders](#important-files-and-folders)
 - [Configuration](#configuration)
@@ -30,7 +30,7 @@ The Studio connects to Sanity Content Lake, which gives you hosted content APIs 
   - [Step 4. Deploy to production](#step-4-deploy-to-production)
 - [Questions and Answers](#questions-and-answers)
   - [It doesn't work! Where can I get help?](#it-doesnt-work-where-can-i-get-help)
-  - [How can I remove the "Next steps" block from my personal site?](#how-can-i-remove-the-next-steps-block-from-my-personal-website)
+  - [How can I remove the "Next steps" block from my personal website?](#how-can-i-remove-the-next-steps-block-from-my-personal-website)
 - [Next steps](#next-steps)
 
 ## Project Overview
